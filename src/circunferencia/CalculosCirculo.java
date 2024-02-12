@@ -12,6 +12,8 @@ package circunferencia;
 public class CalculosCirculo {
     
     private double radio; 
+    private double atri1; 
+    
 
     public CalculosCirculo(double radio) {
         this.radio = radio;
